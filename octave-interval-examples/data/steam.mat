@@ -1,0 +1,59 @@
+# Created by Octave 5.2.0, Wed Mar 03 21:49:10 2021 +07 <sz@szubu>
+# name: steam
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 4
+# name: title
+# type: sq_string
+# elements: 1
+# length: 147
+Зависимость производительности парогенератора (выхода пара) от расхода топлива
+
+
+# name: refs
+# type: sq_string
+# elements: 1
+# length: 191
+Вощинин А.П., Сотиров Г.Р. Оптимизация в условиях неопределенности. М.: Изд-во МЭИ; София: Техника, 1989. -- 224 с.
+
+
+# name: vars
+# type: cell
+# rows: 3
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 16
+fuel_consumption
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+steam_output
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 16
+steam_output_eps
+
+
+
+
+
+# name: data
+# type: matrix
+# rows: 3
+# columns: 3
+ 12 128 6
+ 16 180 9
+ 20 230 11
+
+
+
+

@@ -1,0 +1,159 @@
+# Created by Octave 4.0.0, Sat Sep 05 22:20:43 2020 +07 <sz@szubu>
+# name: hubble
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 5
+# name: title
+# type: sq_string
+# elements: 1
+# length: 52
+Постоянная Хаббла, H0, км/с/Mпк
+
+
+# name: ref
+# type: sq_string
+# elements: 1
+# length: 90
+Hubble Constant, H0, https://lambda.gsfc.nasa.gov/education/graphic_history/hubb_const.cfm
+
+
+# name: vars
+# type: cell
+# rows: 3
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+mean_val
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+eps_minus
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+eps_plus
+
+
+
+
+
+# name: id
+# type: cell
+# rows: 12
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 21
+TRGB_Dist_Ladder 2019
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 24
+GravLens_Time_Delay 2019
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+XMM+Planck_tSZ 2018
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+Planck_PR33++ 2018
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 26
+LIGO/VIRGO_grav_waves 2017
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+BAO+D/H 2017
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+Distance_Ladder 2016
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+Inv_Dist_Ladder 2015
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+WMAP9++ 2013
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+Cepheids+SNla 2011
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 16
+CHANDRA+tSZ 2006
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+HST_Key_Project 2001
+
+
+
+
+
+# name: data
+# type: matrix
+# rows: 12
+# columns: 3
+ 69.8 1.9 1.9
+ 73.3 1.7 1.8
+ 67 3 3
+ 67.66 0.42 0.42
+ 70 8 12
+ 66.98 1.18 1.18
+ 73.23999999999999 1.74 1.74
+ 67.3 1.1 1.1
+ 68.76000000000001 0.84 0.84
+ 73.8 2.4 2.4
+ 73.7 8.5 10.5
+ 72 8 8
+
+
+
+

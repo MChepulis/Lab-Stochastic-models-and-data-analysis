@@ -1,0 +1,363 @@
+# Created by Octave 4.2.2, Fri Oct 09 20:46:29 2020 +07 <sz@szubu>
+# name: topquark
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 5
+# name: title
+# type: string
+# elements: 1
+# length: 25
+Масса t-кварка
+
+
+# name: refs
+# type: cell
+# rows: 8
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 3
+# columns: 1
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 9
+ATLAS2019
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 79
+M. Aaboud et al. (ATLAS), Eur. Phys. J. C79, 4, 290 (2019), [arXiv:1810.01772].
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 30
+10.1140/epjc/s10052-019-6757-9
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 3
+# columns: 1
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 7
+CMS2016
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 82
+V. Khachatryan et al. (CMS), Phys. Rev. D93, 7, 072004 (2016), [arXiv:1509.04044].
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 26
+10.1103/PhysRevD.93.072004
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 3
+# columns: 1
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 7
+CMS2016
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 82
+V. Khachatryan et al. (CMS), Phys. Rev. D93, 7, 072004 (2016), [arXiv:1509.04044].
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 26
+10.1103/PhysRevD.93.072004
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 3
+# columns: 1
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 7
+CMS2019
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 82
+A. M. Sirunyan et al. (CMS), Eur. Phys. J. C79, 4, 313 (2019), [arXiv:1812.10534].
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 30
+10.1140/epjc/s10052-019-6788-2
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 3
+# columns: 1
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 9
+ATLAS2017
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 66
+M. Aaboud et al. (ATLAS), JHEP 09, 118 (2017), [arXiv:1702.07546].
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 23
+10.1007/JHEP09(2017)118
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 3
+# columns: 1
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 7
+CMS2018
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 83
+A. M. Sirunyan et al. (CMS), Eur. Phys. J. C78, 11, 891 (2018), [arXiv:1805.01428].
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 30
+10.1140/epjc/s10052-018-6332-9
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 3
+# columns: 1
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 12
+Tevatron2016
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 131
+The Tevatron Electroweak Working Group and Aaltonen, T., For the CDF and D0 Collab., arXiv:1608.01881, FERMILAB-CONF-16-298-E. 2016
+
+
+# name: <cell-element>
+# type: null_string
+# elements: 0
+
+
+
+
+
+# name: <cell-element>
+# type: cell
+# rows: 3
+# columns: 1
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 10
+Common2013
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 66
+ATLAS,CMS, CDF, & D0 Collab, Phys. Rev. Lett. , 110, 25204 (2013).
+
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 30
+10.1103/PhysRevLett.110.252004
+
+
+
+
+
+
+
+
+# name: vars
+# type: cell
+# rows: 5
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+mean_val
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+eps_minus
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+eps_plus
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+systematic_eps_minus
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+systematic_eps_plus
+
+
+
+
+
+# name: id
+# type: cell
+# rows: 8
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+ATLAS2019
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+CMS2016
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+CMS2016
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+CMS2019
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+ATLAS2017
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+CMS2018
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+Tevatron2016
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 10
+Common2013
+
+
+
+
+
+# name: data
+# type: matrix
+# rows: 8
+# columns: 5
+ 172.08 0.25 0.25 0.41 0.41
+ 172.44 0.13 0.13 0.47 0.47
+ 172.35 0.16 0.16 0.48 0.48
+ 172.34 0.2 0.2 0.7 0.7
+ 173.72 0.55 0.55 1.01 1.01
+ 172.25 0.08 0.08 0.62 0.62
+ 174.3 0.35 0.35 0.54 0.54
+ 173.34 0.27 0.27 0.71 0.71
+
+
+
+

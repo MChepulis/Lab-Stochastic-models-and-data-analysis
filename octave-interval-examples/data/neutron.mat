@@ -1,0 +1,219 @@
+# Created by Octave 5.2.0, Tue Feb 09 14:54:42 2021 UTC <jovyan@b0db4458b09d>
+# name: neutron
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 6
+# name: title
+# type: sq_string
+# elements: 1
+# length: 42
+Время жизни нейтрона, с
+
+
+# name: refs
+# type: sq_string
+# elements: 1
+# length: 306
+Серебров А.П. Разногласие между методом хранения ультрахолодных нейтронов и пучковым методом при измерении времени жизни нейтрона // УФН 189 635–641 (2019), DOI: 10.3367/UFNr.2018.11.038475
+
+
+# name: vars
+# type: cell
+# rows: 5
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+mean_val
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+eps_minus
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+eps_plus
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+systematic_eps_minus
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+systematic_eps_plus
+
+
+
+
+
+# name: id
+# type: cell
+# rows: 9
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 33
+ИЛЛ-ПИЯФ-ОИЯИ 2005 [1]
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 17
+Ежов 2009 [4]
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 18
+MAMBO II 2010 [19]
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 28
+Арзуманов 2012 [21]
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 15
+Mampe 2012 [20]
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+Yue 2013 [25]
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 24
+Морозов 2015 [22]
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+LANL 2017 [6]
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 31
+ПИЯФ-ИЛЛ-ЛРЭ 2017 [2]
+
+
+
+
+
+# name: experiment_type
+# type: cell
+# rows: 9
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+material
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+magnetic
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+material
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+material
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+material
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 4
+beam
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+material
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+material
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+magnetic
+
+
+
+
+
+# name: data
+# type: matrix
+# rows: 9
+# columns: 5
+ 878.5 0.69999999999999996 0.69999999999999996 0.29999999999999999 0.29999999999999999
+ 878.29999999999995 1.6000000000000001 1.6000000000000001 1 1
+ 880.70000000000005 1.3 1.3 1.2 1.2
+ 881.60000000000002 0.80000000000000004 0.80000000000000004 1.8999999999999999 1.8999999999999999
+ 882.5 1.3999999999999999 1.3999999999999999 1.5 1.5
+ 887.70000000000005 1.2 1.2 1.8999999999999999 1.8999999999999999
+ 880.20000000000005 1.2 1.2 0 0
+ 877.70000000000005 0.69999999999999996 0.69999999999999996 0.29999999999999999 0.29999999999999999
+ 881.5 0.69999999999999996 0.69999999999999996 0.59999999999999998 0.59999999999999998
+
+
+
+

@@ -1,0 +1,133 @@
+# Created by Octave 4.0.0, Sat Sep 05 22:03:49 2020 +07 <sz@szubu>
+# name: neutrino
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 5
+# name: title
+# type: sq_string
+# elements: 1
+# length: 33
+Масса нейтрино, эВ
+
+
+# name: ref
+# type: sq_string
+# elements: 1
+# length: 221
+Козлов Ю.В., Матремьянов В.П., Мухин К.Н. Проблема массы нейтрино в современной физике // УФН 167 849–885 (1997), DOI: 10.3367/UFNr.0167.199708c.0849
+
+
+# name: vars
+# type: cell
+# rows: 5
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+mean_val
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 9
+eps_minus
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 8
+eps_plus
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 20
+systematic_eps_minus
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 19
+systematic_eps_plus
+
+
+
+
+
+# name: id
+# type: cell
+# rows: 7
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 26
+Kamiokande (суб-ГэВ)
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 32
+Kamiokande (мульти-ГэВ)
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+Баксан
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 3
+IMB
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 7
+SUDAN-2
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 6
+Frejus
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 5
+NUSEX
+
+
+
+
+
+# name: data
+# type: matrix
+# rows: 7
+# columns: 5
+ 0.6 0.06 0.07000000000000001 0.05 0.05
+ 0.67 0.07000000000000001 0.08 0.07000000000000001 0.07000000000000001
+ 0.98 0.2 0.2 0 0
+ 0.54 0.05 0.05 0.12 0.12
+ 0.6899999999999999 0.19 0.19 0.09 0.09
+ 1.06 0.18 0.18 0.15 0.15
+ 0.99 0.25 0.35 0 0
+
+
+
+
